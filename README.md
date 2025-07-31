@@ -35,7 +35,6 @@ This notebook uses the following Python libraries:
 
 * **Pandas** 🐼 – for data handling
 * **NumPy** 🔢 – for numerical operations
-* **Matplotlib** & **Seaborn** 🎨 – for data visualization
 
 ---
 
